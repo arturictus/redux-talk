@@ -55,7 +55,7 @@ String.length("String")
 ### Actions (Events)
   - https://github.com/reactjs/redux/blob/master/examples/todos/src/actions/index.js
 
-### Reducers (Modify state)
+### Reducers (Modify store)
   - https://github.com/reactjs/redux/blob/master/examples/todos/src/reducers/visibilityFilter.js
 
 ### Containers (Get from Store what you need)
