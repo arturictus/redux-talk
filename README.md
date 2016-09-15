@@ -74,3 +74,19 @@ String.length("String")
   - [Immutable](https://facebook.github.io/immutable-js/)
 
 ### Code Walkthrough
+
+### Tricks
+
+- reusable components
+  - https://github.com/3mundi/path/tree/develop/client/app/components
+
+- possible structure for complex app
+  - forms Store
+    - flight form Store
+    - hotel form Store
+    - etc
+  - http://redux.js.org/docs/api/combineReducers.html
+- complex actions: (thunk)
+  - https://github.com/3mundi/path/blob/develop/client/app/bundles/FlightForm/actions/apiActions.jsx
+
+- Immutable js to ensure components are only view
