@@ -55,7 +55,7 @@ String.length("String")
 ### Actions (Events)
   - https://github.com/reactjs/redux/blob/master/examples/todos/src/actions/index.js
 
-### Reducers (Modify store)
+### Reducers (Return updated store)
   - https://github.com/reactjs/redux/blob/master/examples/todos/src/reducers/visibilityFilter.js
 
 ### Containers (Get from Store what you need)
@@ -87,6 +87,7 @@ String.length("String")
     - etc
   - http://redux.js.org/docs/api/combineReducers.html
 - complex actions: (thunk)
+  actions triggering actions
   - https://github.com/3mundi/path/blob/develop/client/app/bundles/FlightForm/actions/apiActions.jsx
 
 - Immutable js to ensure components are only view
