@@ -78,6 +78,7 @@ String.length("String")
 ### Tricks
 
 - reusable components
+  inline styles VS css style (webpack)
   - https://github.com/3mundi/path/tree/develop/client/app/components
 
 - possible structure for complex app
